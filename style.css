@@ -1,0 +1,70 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin:0;
+	padding:0;
+  background-color: white;
+}
+.row{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+
+
+h1 {
+  margin-bottom: 75px;
+  text-align: center;
+  font-size: 40px;
+}
+
+.box{
+	overflow: none;
+   float: right;
+   background-color: gray;
+   padding: 3px;
+    border: 3px solid black;
+   margin: 20px;
+   width:  30%;
+   height: 175px;
+}
+.boxes{
+    overflow: none;
+    border: 3px solid black;
+	text-align: center;
+	width: 100px;
+	height: 40px;
+	border: 2px solid black;
+	float: right;
+	position: relative;
+	margin-right: -5px;
+	margin-top: -5px;
+}
+.Text{
+	font-size: 25px;
+	border: 2px solid black;
+	font-family: comic sans;
+	color: black;
+	font-style: bold;
+	width: 90%;
+	height:auto;
+	margin:2%;
+	background-color: rgba(0,0,0,0.3);
+}
+
+
+
+.box1{
+	background-color: pink;
+}
+
+.box2{
+	background-color: red;
+}
+.box3{
+	background-color: yellow;
+}
+
+
